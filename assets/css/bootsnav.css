@@ -383,7 +383,7 @@ nav.navbar.navbar-dark ul.nav li.dropdown ul.dropdown-menu  > li > a:hover,
 nav.navbar ul.nav li.dropdown.on > a,
 nav.navbar-dark ul.nav li.dropdown.on > a{
 color: #FFF !important;
-background: #811642    !important;
+background: #D39528    !important;
 }
 
 @media(max-width:920px){
@@ -401,7 +401,7 @@ ul.cart-list > li.total > .btn{
 }
 
 nav.navbar li.dropdown ul.dropdown-menu{
-    border-top-color: #811642 !important;
+    border-top-color: #D39528 !important;
 }
 
 /*
